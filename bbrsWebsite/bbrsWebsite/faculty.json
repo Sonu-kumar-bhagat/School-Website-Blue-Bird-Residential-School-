@@ -1,0 +1,89 @@
+[
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Suni Kumar",
+        "qualification": "Bachelor of Education from Gaya Collage Gaya",
+        "class": "Principal"
+    },
+    
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Ravi Kumar",
+        "qualification": "Bachelor of Commerce",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Riya Sharma",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/deepak.jpg",
+        "name": "Deepak Kumar",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Shambhu Kumar",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Urvashi Verma",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/chanchala.jpg",
+        "name": "Chanchala Kumari",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Sakshi Verma",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/amit.jpg",
+        "name": "Amit Kumar",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/arpana.jpg",
+        "name": "Arpan Kumari",
+        "qualification": "Bachelor of Science",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Rajani Kumari",
+        "qualification": "Bachelor of Arts (D.El.Ed)",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Jyoti Kumari",
+        "qualification": "Intermediate of Science",
+        "class": "Class Teacher"
+    },
+    
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Puja Singh",
+        "qualification": "Bachelor of Arts",
+        "class": "Class Teacher"
+    },
+    {
+        "imageURL": "./images/profilePick/ankit.png",
+        "name": "Ankit Kumar",
+        "qualification": "B.tech from NIT Sikkim",
+        "class": "Student"
+    }
+    
+]
